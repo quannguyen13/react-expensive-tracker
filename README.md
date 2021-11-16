@@ -12,7 +12,7 @@ This project was built with React framework.
 #
 # Download & Setup Instructions In Terminal.
 
-* Clone project: git clone https://github.com/quannguyen13/react-crypto-api
+* Clone project: git clone https://github.com/quannguyen13/react-expensive-tracker
 * cd `react-expensive-tracker`
 * then `npm start`
 #
